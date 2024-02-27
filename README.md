@@ -15,7 +15,7 @@ Install dependencies, run this from the root dir, it will install dependencies f
 npm run appstart
 ```
 
-Frontend at [https://localhost:5001](http://localhost:5001)
+Frontend at [https://localhost:3001](http://localhost:3001)
 
 
 
