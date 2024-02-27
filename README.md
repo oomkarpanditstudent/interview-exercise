@@ -10,17 +10,9 @@ An FAQ is provided at the bottom of this README for additional help.
 # Getting Started
 ## 1. Install Dependencies
 Install dependencies, run this from the root dir, it will install dependencies for both subprojects (backend and frontend)
-```bash
-npm install
-```
 
-## 2. Serve the frontend app
-Open terminal window to serve the frontend:
-
-### Terminal 1
 ```bash
-cd frontend
-npm start
+npm run appstart
 ```
 
 Frontend at [https://localhost:5001](http://localhost:5001)
