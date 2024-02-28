@@ -613,3 +613,4 @@ typings/
 # End of https://www.gitignore.io/api/node
 
 cypress/videos/
+build
